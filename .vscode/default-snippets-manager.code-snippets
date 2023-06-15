@@ -1,0 +1,10 @@
+{
+	"_sns": {
+		"prefix": "_sns",
+		"description": "_sns",
+		"scope": "python",
+		"body": [
+			"import seaborn as sns"
+		]
+	}
+}
